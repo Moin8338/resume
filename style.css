@@ -31,7 +31,7 @@ a{
     width: 100%;
     height: auto;
     border-radius: 5px;
-    background-color: rgb(67, 61, 61);
+    background-color: rgba(40,47,57,255);
     color: white;
 }
 .header .profile-img{
