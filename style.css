@@ -166,7 +166,7 @@ main .left-content{
     padding: .5rem 0;
     font-size: .8rem;
 }
-.education .section-content table tbody tr:nth-child(even){
+.education .section-content table tbody tr{
     background-color: rgb(198, 194, 194);
 }
 
